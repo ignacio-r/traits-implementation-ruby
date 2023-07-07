@@ -1,4 +1,4 @@
-# Traits - By Monkey Patchers
+# Traits 
 
 Implementation proposal in Ruby for OOP 3.
 
